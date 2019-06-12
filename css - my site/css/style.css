@@ -1,0 +1,131 @@
+body {
+  margin: 0;
+  color: white;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+
+p {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+h1 {
+  margin: 30px auto 0 auto;
+  color: white;
+  font-size: 3.2rem;
+}
+
+h2 {
+  margin: 0;
+  padding-top: 15px;
+  font-size: 1.5rem;
+  color: white;
+  font-family: 'Indie Flower', cursive;
+}
+
+h3 {
+  color: white;
+  font-size: 2.5rem;
+}
+
+.top {
+  width: 200;
+  background-color: #beeef7;
+  position: relative;
+  padding-top: 80px;
+  margin: 0;
+}
+
+.middle {
+  margin: 0;
+  width: 200;
+  background-color: #6fc2d0;
+  text-align: center;
+}
+
+.bottom {
+  width: 200;
+  background-color: #373a6d;
+  text-align: center;
+  margin: 0;
+}
+
+.cloud-one {
+  color: white;
+  position: absolute;
+  left: 100px;
+  top: 20px;
+}
+
+.cloud-two {
+  color: white;
+  position: absolute;
+  right: 150px;
+  top: 60px;
+}
+
+.cloud-three {
+  color: white;
+  position: absolute;
+  left: 300px;
+  top: 280px;
+}
+
+.mountain {
+  vertical-align: bottom;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: 6px;
+  width: 3%;
+}
+
+.profile {
+  padding-top: 11%;
+  padding-bottom: 4%;
+}
+
+a {
+  font-size: 2rem;
+  color: white;
+}
+
+.btn {
+  padding: 3%;
+}
+
+.skills {
+  padding: 3%;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+}
+
+.contact-me {
+  padding-top: 3%;
+  padding-bottom: 2%;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.pizza {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.laptop {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
